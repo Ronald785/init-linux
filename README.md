@@ -14,15 +14,18 @@ Instala as versões mais recentes dos pacotes instalados no sistema:
 
 ### Snap Store
 
--   VS Code
--   Postman
--   Spotify
--   Gpt-desktop
+- [x] VS Code
+- [x] Postman
+- [x] Spotify
+- [x] VLC
+- [x] Steam
+- [x] Discord
+- [x] Cheese
+- [x] Gpt-desktop
 
 #### Node.js
 
-1.  Baixar o prebuilt:
-    -   https://nodejs.org/en/download/prebuilt-binaries
+1.  Baixar o [prebuilt](https://nodejs.org/en/download/prebuilt-binaries)
 2.  Criar pasta localmente:
     -   `sudo mkdir -p /usr/local/lib/nodejs`
 3.  Extrair arquivo e mover:
@@ -57,9 +60,9 @@ Instala as versões mais recentes dos pacotes instalados no sistema:
     -   `git config --global user.email "ronaldmateus785@gmail.com"`
     -   `git config --global init.defaultBranch main`
 
-### Google
+#### Google
 
-1.  Baixar arquivo deb: [Link](https://www.google.com/intl/pt-BR/chrome/)
+1.  Baixar arquivo [deb](https://www.google.com/intl/pt-BR/chrome/)
 2.  Instalar deb:
     -   `sudo dpkg -i google-chrome-stable_current_amd64.deb`
 3.  Se houver dependências não atendidas:
@@ -77,7 +80,7 @@ Instala as versões mais recentes dos pacotes instalados no sistema:
 
 #### MongoDB Compass
 
-1.  Baixar arquivo deb: [Link](https://www.mongodb.com/try/download/compass)
+1.  Baixar arquivo [deb](https://www.mongodb.com/try/download/compass)
 2.  Instalar deb:
     -   `sudo dpkg -i mongodb-compass_1.43.0_amd64.deb`
 3.  Se houver dependências não atendidas:
